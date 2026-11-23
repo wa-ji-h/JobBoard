@@ -1,0 +1,10 @@
+**/target/
+**/node_modules/
+**/__pycache__/
+**/.venv/
+**/venv/
+**/.idea/
+**/.mvn/wrapper/maven-wrapper.jar
+*.class
+*.pyc
+.env
